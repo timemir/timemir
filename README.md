@@ -10,7 +10,8 @@ I've been learning to code for a couple months. HTML, CSS, React, React Native a
 *   ✉️  You can contact me at [timemir97@gmail.com](mailto:timemir97@gmail.com)
 *   🧠  I'm learning Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
 *   🤝  I'm open to collaborating on interesting webdev projects
-*   ⚡  currently working on a new app idea 😏### Skills 
+*   ⚡  currently working on a new app idea 😏
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
