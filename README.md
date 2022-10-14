@@ -1,7 +1,7 @@
 Hi 👋 My name is Tim
 ====================
 
-Aspiring Fullstack Web- & Appdeveloper
+Fullstack Software Engineer
 --------------------------------------
 
 I've been learning to code for a couple months. HTML, CSS, React, React Native are part of my toolbelt.
