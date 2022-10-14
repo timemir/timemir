@@ -4,9 +4,9 @@ Hi 👋 My name is Tim
 Fullstack Software Engineer
 --------------------------------------
 
-I've been learning to code for a couple months. HTML, CSS, React, React Native are part of my toolbelt.
 
-*   🌍  I'm based in Germany
+
+*   🌍  I'm based in Germany, Dortmund
 *   ✉️  You can contact me at [timemir97@gmail.com](mailto:timemir97@gmail.com)
 *   🧠  Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
 *   🤝  I'm open to collaborating on interesting webdev projects
