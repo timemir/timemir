@@ -8,7 +8,7 @@ I've been learning to code for a couple months. HTML, CSS, React, React Native a
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [timemir97@gmail.com](mailto:timemir97@gmail.com)
-*   🧠  I'm learning Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
+*   🧠  Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
 *   🤝  I'm open to collaborating on interesting webdev projects
 *   ⚡  currently working on a new app idea 😏
 ### Skills 
