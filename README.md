@@ -7,10 +7,10 @@ Fullstack Software Engineer
 
 
 *   🌍  I'm based in Germany, Dortmund
-*   ✉️  You can contact me at [timemir97@gmail.com](mailto:timemir97@gmail.com)
+*   ✉️  You can contact me at [me@timemir.com](mailto:me@timemir.com)
 *   🧠  Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
 *   🤝  I'm open to collaborating on interesting webdev projects
-*   ⚡  currently working on a new app idea 😏
+*   ⚡  Check out my [Portfolio](https://www.timemir.com/)!
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
