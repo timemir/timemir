@@ -8,7 +8,7 @@ Fullstack Software Engineer
 
 *   🌍  I'm based in Germany, Dortmund
 *   ✉️  You can contact me at [me@timemir.com](mailto:me@timemir.com)
-*   🧠  Javascript, React, React Native, Node, Express, MongoDB and much more! (#100Devs)
+*   🧠  Typescript, React, React Native, Node, Express, MongoDB and much more!
 *   🤝  I'm open to collaborating on interesting webdev projects
 *   ⚡  Check out my [Portfolio](https://www.timemir.com/)!
 ### Skills 
