@@ -1,4 +1,4 @@
-Hi 👋 My name is Tim 
+Hi 👋 My name is Tim
 ====================
 
 Fullstack Software Engineer
