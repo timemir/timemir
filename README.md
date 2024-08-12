@@ -7,12 +7,13 @@ Fullstack Software Engineer
 
 
 *   🌍  I'm based in Germany, Dortmund
-*   ✉️  You can contact me at [me@timemir.com](mailto:me@timemir.com)
-*   🧠  Typescript, React, React Native, Node, Express, MongoDB and much more!
+*   ✉️  You can contact me at [timemir97@gmail.com](mailto:timemir97@gmail.com)
+*   🧠  Currently working as a Java Backend Developer with Spring 🍃
 *   🤝  I'm open to collaborating on interesting webdev projects
-*   ⚡  Check out my [Portfolio](https://www.timemir.com/)!
+*   ⚡  Check out my [Portfolio]() (🚧currenty no portfolio🚧)!
 ### Skills 
 <p align="left">
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
